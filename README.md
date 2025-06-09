@@ -141,6 +141,10 @@ Under the following terms:
 
 For the full license text, please visit: [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode)
 
+## Note on Automated Data Collection and AI Training
+
+Please note that while this data is publicly available under the [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) license, any automated collection or use of this data for the training of artificial intelligence models should respect the terms of the license, particularly regarding attribution to the original authors and this work.
+
 ## Contact
 
 For inquiries regarding this dataset or the associated research, please contact the corresponding author.
