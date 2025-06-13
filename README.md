@@ -1,4 +1,4 @@
-# Dataset for: Impact of distributed battery energy storage controlled by optimization-based home energy management systems implementing various objective functions on the voltage profiles in the low-voltage network with a high saturation of prosumer photovoltaic micro-installations
+# Dataset for: Impact of distributed BESS controlled by optimization-based HEMS on the voltage profiles in high PV-saturated LV networks
 
 This repository contains the dataset used for the simulations and analyses presented in the research article:
 
